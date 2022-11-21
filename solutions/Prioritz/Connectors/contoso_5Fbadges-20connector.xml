@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Connector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <connectorid>60ab0cee-4df2-4165-b232-7e601acb40c6</connectorid>
+  <description>Connector for badges</description>
+  <displayname>Badges connector</displayname>
+  <iconbrandcolor>#007ee5</iconbrandcolor>
+  <name>contoso_5Fbadges-20connector</name>
+  <connectortype>1</connectortype>
+  <scriptoperations>[]</scriptoperations>
+  <openapidefinition>/Connector/contoso_5Fbadges-20connector_openapidefinition.json</openapidefinition>
+  <connectionparameters>/Connector/contoso_5Fbadges-20connector_connectionparameters.json</connectionparameters>
+  <policytemplateinstances>/Connector/contoso_5Fbadges-20connector_policytemplateinstances.json</policytemplateinstances>
+  <customcodeblobcontent>/Connector/contoso_5Fbadges-20connector_customcodeblobcontent.csx</customcodeblobcontent>
+  <iconblob>/Connector/contoso_5Fbadges-20connector_iconblob.Png</iconblob>
+</Connector>

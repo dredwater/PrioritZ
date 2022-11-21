@@ -34,6 +34,7 @@
   <CustomControls />
   <EntityDataProviders />
   <CanvasApps />
+  <Connectors />
   <connectionreferences>
     <connectionreference connectionreferencelogicalname="contoso_sharedcommondataserviceforapps_5e308">
       <connectionreferencedisplayname>Microsoft Dataverse Prioritz-5e308</connectionreferencedisplayname>
