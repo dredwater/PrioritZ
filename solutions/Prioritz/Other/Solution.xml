@@ -6,7 +6,7 @@
       <LocalizedName description="Prioritz" languagecode="1033" />
     </LocalizedNames>
     <Descriptions />
-    <Version>1.0.0.7</Version>
+    <Version>1.0.0.8</Version>
     <Managed>2</Managed>
     <Publisher>
       <UniqueName>ContosoCoffee</UniqueName>
@@ -93,6 +93,11 @@
       <RootComponent type="432" schemaName="contoso_prioritztopic" behavior="0" />
       <RootComponent type="432" schemaName="contoso_prioritztopicitem" behavior="0" />
     </RootComponents>
-    <MissingDependencies />
+    <MissingDependencies>
+      <MissingDependency>
+        <Required type="connectionreference" displayName="contoso_sharedcontoso5fbadges20connector5f407eaa92bf420e57_10824" solution="Active" id.connectionreferencelogicalname="contoso_sharedcontoso5fbadges20connector5f407eaa92bf420e57_10824" />
+        <Dependent type="29" displayName="Test add credit" id="{7db72e2d-bc66-ed11-9562-000d3a19a9da}" />
+      </MissingDependency>
+    </MissingDependencies>
   </SolutionManifest>
 </ImportExportXml>
