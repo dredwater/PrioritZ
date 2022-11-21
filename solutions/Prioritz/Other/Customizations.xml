@@ -43,6 +43,16 @@
       <statecode>0</statecode>
       <statuscode>1</statuscode>
     </connectionreference>
+    <connectionreference connectionreferencelogicalname="contoso_sharedcontoso5fbadges20connector5f407eaa92bf420e57_10824">
+      <connectionreferencedisplayname>Badges connector Prioritz-10824</connectionreferencedisplayname>
+      <connectorid>/providers/Microsoft.PowerApps/apis/shared_contoso-5fbadges-20connector-5f407eaa92bf420e57</connectorid>
+      <customconnectorid>
+        <connectorid>60ab0cee-4df2-4165-b232-7e601acb40c6</connectorid>
+      </customconnectorid>
+      <iscustomizable>1</iscustomizable>
+      <statecode>0</statecode>
+      <statuscode>1</statuscode>
+    </connectionreference>
     <connectionreference connectionreferencelogicalname="contoso_sharedcontoso5fbadges20connector5f407eaa92bf420e57_51ca7">
       <connectionreferencedisplayname>Badges connector Prioritz-51ca7</connectionreferencedisplayname>
       <connectorid>/providers/Microsoft.PowerApps/apis/shared_contoso-5fbadges-20connector-5f407eaa92bf420e57</connectorid>

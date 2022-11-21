@@ -1,10 +1,10 @@
 {
   "properties": {
     "connectionReferences": {
-      "shared_contoso-5fbadges-20connector-5f407eaa92bf420e57": {
+      "shared_contoso-5fbadges-20connector-5f407eaa92bf420e57_1": {
         "runtimeSource": "invoker",
         "connection": {
-          "connectionReferenceLogicalName": "contoso_sharedcontoso5fbadges20connector5f407eaa92bf420e57_51ca7"
+          "connectionReferenceLogicalName": "contoso_sharedcontoso5fbadges20connector5f407eaa92bf420e57_10824"
         },
         "api": {
           "name": "shared_contoso-5fbadges-20connector-5f407eaa92bf420e57",
@@ -64,7 +64,7 @@
           "type": "OpenApiConnection",
           "inputs": {
             "host": {
-              "connectionName": "shared_contoso-5fbadges-20connector-5f407eaa92bf420e57",
+              "connectionName": "shared_contoso-5fbadges-20connector-5f407eaa92bf420e57_1",
               "operationId": "AddCredit",
               "apiId": ""
             },
@@ -81,7 +81,7 @@
         }
       }
     },
-    "templateName": null
+    "templateName": ""
   },
   "schemaVersion": "1.0.0.0"
 }
